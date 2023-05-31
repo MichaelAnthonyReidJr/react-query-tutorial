@@ -12,7 +12,7 @@ const App = () => {
       {/* The rest of your application */}
 
       <Repositories />
-      <ReactQueryDevtools initialIsOpen={true} />
+      {/* <ReactQueryDevtools initialIsOpen={true} /> */}
 
     </QueryClientProvider>
   );
